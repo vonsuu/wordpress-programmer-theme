@@ -910,7 +910,7 @@ footer#colophon {
 }
 body:not(.theme-preset-active) footer#colophon {
   color: #99979c;
-  background-color: #f7f7f7;
+  background-color: #563d7c;
 }
 .navbar-dark .site-info {
   color: #fff;
